@@ -1,4 +1,5 @@
 getgenv().keytoclick = "Q"
+Loadstring(game:HttpGet(("https://raw.githubusercontent.com/Rillkah/J/main/Q%20tool'),true))()
 tool = Instance.new("Tool")
 tool.RequiresHandle = false
 tool.Name = keytoclick
